@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">Interactive Story App</string>
+
+    <!--Firebase-->
+    <string name="firebase_login">Firebase Login</string>
+    <string name="login_with_google">LOGIN WITH GOOGLE</string>
+    <string name="logout">Logout</string>
+
+    <!--Notes-->
+    <string name="see_notes">SEE NOTES</string>
+    <string name="action_delete_all_entries">Delete All Notes</string>
+    <string name="editor_activity_title_new_note">Add a Note</string>
+    <string name="action_save">Save</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_note_title">Title</string>
+    <string name="hint_note_note"> Note</string>
+
+    <!--Stories-->
+    <string name="see_stories">SEE STORIES</string>
+    <string name="the_boat">The Boat</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="start_your_adventure">START YOUR ADVENTURE</string>
+    <string name="story_image_content_description">Story page image</string>
+    <string name="play_again_button_text">PLAY AGAIN</string>
+    <string name="key_name">name</string>
+
+    //story 1
+    <string name="story1_page0">
+        Tired of work, you decided to leave your cozy house and take a walk along the seashore. After few minutes, you reach abandoned harbour and you stop for a moment, still thinking about your unfinished work. Suddenly you hear someone whispering behind you: \" %1$s, %1$s\...". When you turn around, you see a lonely boat moored to a piece of wood, you\'ve never seen it before.
+       </string>
+    <string name="story1_page0_choice1">Investigate the boat</string>
+    <string name="story1_page0_choice2">Continue your walk</string>
+    <string name="story1_page1">When you approach the boat, you see that it\'s open. Something is making quiet, suspicious noise inside. You notice a big, old knife on the ground, it\'s covered in blood.</string>
+    <string name="story1_page1_choice1">Enter the boat</string>
+    <string name="story1_page1_choice2">Grab the knife and enter the boat</string>
+    <string name="story1_page2">You leave the harbour and after few more steps you hear someone screaming, even though you know it\'s not a good idea, something is telling you to get back to harbour and check whats happening in the boat.</string>
+    <string name="story1_page2_choice1">Head back to harbour and check the boat</string>
+    <string name="story1_page2_choice2">Get back home as soon as possible</string>
+    <string name="story1_page3">First thing you notice inside is a dead woman body, lying on the floor, the noise is coming from another room.</string>
+    <string name="story1_page3_choice1">Enter another room</string>
+    <string name="story1_page3_choice2">Go back and grab the knife</string>
+    <string name="story1_page4">You open the door, immediately blurred shadow attacks you but you manage to stab creature with the knife, it jumps back and looks at you with it\'s red eyes.</string>
+    <string name="story1_page4_choice1">Attack again</string>
+    <string name="story1_page4_choice2">Run away</string>
+    <string name="story1_page5">You try to take one more step and before you move shadow attacks you with great speed, last thing you notice is long claws slashing your arm, you fall down and pass out.</string>
+    <string name="story1_page6">You reached your home safely. Scared of the recent events, you go to sleep. When you wake up next morning the whole thing seems like a very vivid dream.</string>
+
+    //story 2
+    <string name="story2_page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
+    <string name="story2_page0_choice1">Stop and investigate</string>
+    <string name="story2_page0_choice2">Continue home to Earth</string>
+    <string name="story2_page1">You deftly land your ship near where the distress signal originated. You didn\'t notice anything strange on your fly-by, but there is a cave in front of you. Behind you is an abandoned rover from the early 21st century.</string>
+    <string name="story2_page1_choice1">Explore the cave</string>
+    <string name="story2_page1_choice2">Explore the rover</string>
+    <string name="story2_page2">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
+    <string name="story2_page2_choice1">Head back to Mars to investigate</string>
+    <string name="story2_page2_choice2">Continue home to Earth</string>
+    <string name="story2_page3">Your EVA suit is equipped with a headlamp, which you use to navigate the cave. After searching for a while your oxygen levels are starting to get pretty low. You know you should go refill your tank, but there\'s a very faint light up ahead.</string>
+    <string name="story2_page3_choice1">Refill at ship and explore the rover</string>
+    <string name="story2_page3_choice2">Continue towards the faint light</string>
+    <string name="story2_page4">The rover is covered in dust and most of the solar panels are broken. But you are quite surprised to see the on-board system booted up and running. In fact, there is a message on the screen: \"%1$s, come to 28.543436, -81.369031.\" Those coordinates aren\'t far, but you don\'t know if your oxygen will last for a trip there and back.</string>
+    <string name="story2_page4_choice1">Explore the coordinates</string>
+    <string name="story2_page4_choice2">Return to Earth</string>
+    <string name="story2_page5">After a long walk slightly uphill, you end up at the top of a small crater. You look around, and are overjoyed to see your favorite android, %1$s-S1124. It had been lost on a previous mission to Mars! You take it back to your ship and fly back to Earth.</string>
+    <string name="story2_page6">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate…</string>
+
+    //story 3
+    <string name="story3_page0">You are visiting New York for the first time, the day just started and you are thinking what to visit first. Suddenly someone screams your name \"%1$s!, %1$s. You turn a round and you see your friend from college. You two have a short talk about good old times and then you continue your trip.</string>
+    <string name="story3_page0_choice1">Go to Times Square</string>
+    <string name="story3_page0_choice2">Go to Statue of Liberty</string>
+    <string name="story3_page1">While admiring all the neon lights, you realize that you are hungry.</string>
+    <string name="story3_page1_choice1">Visit casino</string>
+    <string name="story3_page1_choice2">Get some food</string>
+    <string name="story3_page2">After seeing the Statue of Liberty, you realize you are hungry.</string>
+    <string name="story3_page2_choice1">Get some food</string>
+    <string name="story3_page2_choice2">Find a hotel</string>
+    <string name="story3_page3">Your stomach is rumbling but the desire to win few rounds of black jack is still in your head.</string>
+    <string name="story3_page3_choice1">Go to casino</string>
+    <string name="story3_page3_choice2">Get some food</string>
+    <string name="story3_page4">You eat few slices of famous one dollar pizza and you keep thinking about slot machines</string>
+    <string name="story3_page4_choice1">Visit Casino</string>
+    <string name="story3_page4_choice2">Find a hotel</string>
+    <string name="story3_page5">You get to the casino and you immediately start playing. You loose your money very quickly and you come back to your hotel by feet.</string>
+    <string name="story3_page6">You get a cab to a random hotel and you go to sleep immediately already thinking what you are gonna do tomorrow.</string>
+
+    //story 4
+    <string name="story4_page0">The Hospital was filled with people. Doctors rushing patients to emergency rooms, noise echoing through the halls. A few military officers stood at the entrance of the hospital, armed with M16′s. I was a member of the FBI. We were sent to investigate a series of strange murders that had been happening around the city.</string>
+    <string name="story4_page0_choice1">By now, several other cities in the U.S. were already quarantined</string>
+    <string name="story4_page0_choice2">None of it made sense</string>
+    <string name="story4_page1">Murders and a mysterious have been plaguing the United States. Just then, my partner, James, rushed into the room that I was standing in. “Alex, we need to leave! Something’s come up!” He said. We rushed through the crowd, practically pushing our way to the door.</string>
+    <string name="story4_page1_choice1">“What’s going on?!”</string>
+    <string name="story4_page1_choice2">I shouted, unable to hear myself through the noise</string>
+    <string name="story4_page2">“There’s a riot downtown. People are getting killed” Alex said. When we had finally reached the door, there was a black car waiting outside for us. We got in and drove away, leaving behind a cloud of burnt rubber smoke.</string>
+    <string name="story4_page2_choice1">The other agents in the car loaded their weapons</string>
+    <string name="story4_page2_choice2">I had a 10 inch barrel Smith and Wesson 500 revolver</string>
+    <string name="story4_page3">It was a useful, and I had owned it for many years. “Were in town is the riot?” I asked the driver. “It’s in Brooklyn. About a block away” the driver replied. As we drove, the radio came on. </string>
+    <string name="story4_page3_choice1">here was a lot of loud noise in the background</string>
+    <string name="story4_page3_choice2">The speaker sounded like he was in a panicked state</string>
+    <string name="story4_page4">“It’s me! Matt Hagen from WCBC News! We are down in North Brooklyn City! There is a huge state of panic and people are dying and…”. The reporter stopped speaking for a moment. Besides the howling of the wind, was another loud noise that sounded like an engine.</string>
+    <string name="story4_page4_choice1">“Oh god…! Something’s going on</string>
+    <string name="story4_page4_choice2">Planes are falling out of the sky and destroying the city</string>
+    <string name="story4_page5">Me, James, and the other agents looked up, and sure enough, saw planes in the distance, falling from the clouds. “What in the living hell is happening around here?!” James yelled. Just then, a person came shambling across the road, unaware of the vehicle that was speeding in their direction. Before the driver could stop, the car slammed into the person.</string>
+    <string name="story4_page6">Blood splattered on the windshield, disabling our view of the mayhem. The car swung to the side of the road, with the driver struggling to keep the car on it’s wheels. Me and James were handing on the door handles, trying not to fall on one another. But the force was too strong. The car flipped over and rolled across the road, shattering windows. Within seconds, I had passed out. Everything went black.</string>
+
+    //story 5
+    <string name="story5_page0">Bacon ipsum dolor amet turducken short ribs pancetta tongue beef ribs. Ham hock beef kevin jerky filet mignon alcatra pastrami leberkas ball tip pig prosciutto bacon strip steak chicken. Short loin pork prosciutto rump capicola, sirloin andouille filet mignon meatloaf.</string>
+    <string name="story5_page0_choice1">Pork loin pancetta beef landjaeger ball tip shank</string>
+    <string name="story5_page0_choice2">Pork belly kevin jowl ham hock ribeye</string>
+    <string name="story5_page1">Bacon jowl shankle bresaola. Alcatra beef ribs meatball burgdoggen short loin picanha sausage ball tip ham hock spare ribs boudin. Alcatra rump tenderloin, swine capicola cow landjaeger pig sirloin venison turducken.</string>
+    <string name="story5_page1_choice1">Short loin picanha shankle pork chop ham hock pork beef pastrami swine filet mignon</string>
+    <string name="story5_page1_choice2"> Filet mignon meatloaf salami pork loin</string>
+    <string name="story5_page2">Turducken tail picanha burgdoggen leberkas beef. Corned beef bresaola beef short ribs ball tip turducken leberkas swine doner frankfurter tenderloin alcatra. Ball tip venison frankfurter boudin meatloaf bacon jerky tri-tip flank beef. Boudin frankfurter sausage pork rump turkey.</string>
+    <string name="story5_page2_choice1">Meatloaf frankfurter salami, pancetta tongue porchetta </string>
+    <string name="story5_page2_choice2">Short loin short ribs tail, ham hock tri-tip </string>
+    <string name="story5_page3">Turkey ham hock rump tongue jowl alcatra. Cow pastrami corned beef frankfurter turducken pancetta ground round sirloin. Salami ham hock meatball doner chicken, pork rump kevin biltong tail andouille. Boudin pork loin prosciutto pork belly alcatra.</string>
+    <string name="story5_page3_choice1">Ground round ham hock</string>
+    <string name="story5_page3_choice2">Cow pastrami corned beef frankfurter turducken pancetta </string>
+    <string name="story5_page4">Buffalo ham hock corned beef tail, cow short ribs pastrami bacon turkey biltong t-bone andouille. Porchetta cow capicola sirloin pastrami corned beef kielbasa short loin t-bone jerky leberkas filet mignon. T-bone turkey short ribs rump bresaola meatball bacon. Sirloin shankle rump, chuck landjaeger biltong kielbasa salami beef shoulder spare ribs brisket turkey drumstick kevin.</string>
+    <string name="story5_page4_choice1">Bacon ipsum dolor amet boudin</string>
+    <string name="story5_page4_choice2">Tenderloin shoulder kevin sirloin, tri-tip burgdoggen</string>
+    <string name="story5_page5">Elit proident sausage ad excepteur chuck. Voluptate venison in jerky aliquip ham hock bresaola sunt. Cupim exercitation cow jowl pig buffalo aliqua pork chop veniam. Tri-tip aliquip filet mignon, sed ground round t-bone anim ham hock pastrami bresaola.</string>
+    <string name="story5_page6">Dolore incididunt salami, ipsum duis landjaeger laborum boudin. Minim mollit ham hock, bacon fatback salami exercitation meatball short ribs sed sausage chicken. Dolore meatloaf esse, tongue biltong duis bacon culpa.</string>
+
+    //story 6
+    <string name="story6_page0">You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out.</string>
+    <string name="story6_page0_choice1">I don\'t know exactly when we turned on each other</string>
+    <string name="story6_page0_choice2">I know that seven of us survived the slide...</string>
+    <string name="story6_page1">Now we took an oath, that I\'m breaking now. We said we\'d say it was the snow that killed the other two, but it wasn\'t. Nature is lethal but it doesn\'t hold a candle to man.</string>
+    <string name="story6_page1_choice1">Now that there is the Tec-9</string>
+    <string name="story6_page1_choice2">Crappy spray gun from South Miami</string>
+    <string name="story6_page2"> This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they\'re actually proud of that shit. </string>
+    <string name="story6_page2_choice1">Now that we know who you are</string>
+    <string name="story6_page2_choice2">I know who I am</string>
+    <string name="story6_page3">I\'m not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain\'s going to be? He\'s the exact opposite of the hero. And most times they\'re friends, like you and me!</string>
+    <string name="story6_page3_choice1">I should\'ve known way back when</string>
+    <string name="story6_page3_choice2">They called me Mr Glass</string>
+    <string name="story6_page4">Look, just because I don\'t be givin\' no man a foot massage don\'t make it right for Marsellus to throw Antwone into a glass motherfuckin\' house, fuckin\' up the way the nigger talks.</string>
+    <string name="story6_page4_choice1">My money\'s in that office</string>
+    <string name="story6_page4_choice2">Find out where my goddamn money is</string>
+    <string name="story6_page5">That\'s also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We\'re on the same curve, just on opposite ends.</string>
+    <string name="story6_page6">Now that we know who you are, I know who I am. I\'m not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain\'s going to be? He\'s the exact opposite of the hero.</string>
+
+    //story 7
+    <string name="story7_page0">Lick the other cats suddenly go on wild-eyed crazy rampage and chase mice this human feeds me, i should be a god chase imaginary bugs, and eat the fat cats food. Brown cats with pink ears chew the plant, purr for no reason if it fits i sits if it fits, i sits. Scratch the furniture i hate cucumber pls dont throw it at me. </string>
+    <string name="story7_page0_choice1">Behind the couch kitty power</string>
+    <string name="story7_page0_choice2">Give attitude</string>
+    <string name="story7_page1">I cry and cry and cry unless you pet me, and then maybe i cry just for fun. This cat happen now, it was too purr-fect!!! scratch at the door then walk away fat baby cat best buddy little guy lick the other cats.</string>
+    <string name="story7_page1_choice1">Litter kitter kitty litty little kitten</string>
+    <string name="story7_page1_choice2">Big roar roar feed me touch my tail</string>
+    <string name="story7_page2">Wake up wander around the house making large amounts of noise jump on top of your human\'s bed and fall asleep again eats owners hair then claws head yet give me some of your food give me some of your food give me some of your food meh, i don\'t want it then cats take over the world attack feet play riveting piece on synthesizer keyboard.</string>
+    <string name="story7_page2_choice1"> I love cuddles</string>
+    <string name="story7_page2_choice2">wrath of my claws</string>
+    <string name="story7_page3">Pose purrfectly to show my beauty. Pretend you want to go out but then don\'t purr as loud as possible, be the most annoying cat that you can, and, knock everything off the table and poop on grasses so i\'m bored inside,</string>
+    <string name="story7_page3_choice1">Let me out i\'m lonely outside</string>
+    <string name="story7_page3_choice2">Let me inside</string>
+    <string name="story7_page4">Destroy the blinds shove bum in owner\'s face like camera lens. Behind the couch lies down nya nya nyan bird bird bird bird bird bird human why take bird out i could have eaten that yet pounce on unsuspecting person so always hungry yet push your water glass on the floor. </string>
+    <string name="story7_page4_choice1">Lie in the sink all day</string>
+    <string name="story7_page4_choice2">Meow</string>
+    <string name="story7_page5">Run around the house at 4 in the morning. Jump five feet high and sideways when a shadow moves touch water with paw then recoil in horror lie on your belly and purr when you are asleep the dog smells bad touch water with paw then recoil in horror. </string>
+    <string name="story7_page6">Ooh, are those your $250 dollar sandals? lemme use that as my litter box chase ball of string or paw at your fat belly lick left leg for ninety minutes, still dirty destroy couch, for get suspicious of own shadow then go play with toilette paper. </string>
+
+    //story 8
+    <string name="story8_page0"> love cheese, especially parmesan squirty cheese. Who moved my cheese camembert de normandie dolcelatte mozzarella cheese and biscuits st. agur blue cheese cream cheese cut the cheese. St. agur blue cheese paneer who moved my cheese fromage frais cauliflower cheese roquefort melted cheese airedale. </string>
+    <string name="story8_page0_choice1">Cheddar port-salut caerphilly </string>
+    <string name="story8_page0_choice2">Stilton ricotta halloumi fondue</string>
+    <string name="story8_page1">Hard cheese cut the cheese cheesy grin. Halloumi hard cheese cut the cheese blue castello goat brie ricotta monterey jack. Caerphilly cheese slices queso when the cheese comes out everybody\'s happy cheesy feet cheese slices ricotta mozzarella. </string>
+    <string name="story8_page1_choice1">Everybody\'s happy</string>
+    <string name="story8_page1_choice2">Blue cheese</string>
+    <string name="story8_page2">Mozzarella parmesan caerphilly. The big cheese swiss croque monsieur cut the cheese smelly cheese red leicester melted cheese fondue. Danish fontina smelly cheese who moved my cheese stinking bishop cheese strings pepper jack cheeseburger goat. </string>
+    <string name="story8_page2_choice1">Blue castello macaroni cheese</string>
+    <string name="story8_page2_choice2">Rubber cheese</string>
+    <string name="story8_page3">Halloumi airedale st. agur blue cheese. Mascarpone melted cheese rubber cheese cheesecake cheese slices cheese on toast cheesy grin everyone loves. Emmental fondue croque monsieur taleggio cut the cheese cheesecake squirty cheese macaroni cheese. Blue castello red leicester the big cheese stilton everyone loves pecorino emmental danish fontina.</string>
+    <string name="story8_page3_choice1">Fromage frais cauliflower cheese</string>
+    <string name="story8_page3_choice2">Swiss cheese on toast</string>
+    <string name="story8_page4">Bocconcini cheesy feet pecorino. Cheddar who moved my cheese port-salut port-salut rubber cheese queso macaroni cheese cheese slices. Cow queso stilton squirty cheese cow melted cheese danish fontina say cheese. Who moved my cheese the big cheese cheese triangles jarlsberg taleggio cheesecake camembert de normandie cheesecake.</string>
+    <string name="story8_page4_choice1">Camembert de normandie</string>
+    <string name="story8_page4_choice2">melted cheese</string>
+    <string name="story8_page5">Smelly cheese manchego cut the cheese. Cheesy grin bavarian bergkase brie port-salut say cheese pepper jack when the cheese comes out everybody\'s happy cut the cheese. Dolcelatte lancashire melted cheese chalk and cheese cheese slices say cheese boursin cheeseburger. </string>
+    <string name="story8_page6">Cheesy grin feta cheese triangles fromage blue castello macaroni cheese cauliflower cheese say cheese. Cow cheese strings roquefort cheese and biscuits rubber cheese cheese on toast melted cheese camembert de normandie. Cottage cheese feta cheesecake when the cheese comes out everybody\'s happy cheesy grin dolcelatte cream cheese cheese triangles.</string>
+
+    //story 9
+    <string name="story9_page0">Skysail avast hornswaggle Cat o\'nine tails run a shot across the bow Yellow Jack ahoy bring a spring upon her cable Jack Ketch Spanish Main. Six pounders belay crow\'s nest careen trysail man-of-war carouser fathom code of conduct keel. Doubloon capstan Blimey gally hardtack list bowsprit broadside cackle fruit provost.</string>
+    <string name="story9_page0_choice1">Hail-shot prow mutiny sutler </string>
+    <string name="story9_page0_choice2">no prey, no pay</string>
+    <string name="story9_page1">Blow the man down scallywag parley Cat o\'nine tails rope\'s end Brethren of the Coast fathom flogging bilged on her anchor code of conduct. Keel heave down Pirate Round boom walk the plank yardarm long boat smartly fluke scurvy. Line pink handsomely rope\'s end bilged on her anchor keelhaul Pirate Round chase guns prow lugger.</string>
+    <string name="story9_page1_choice1">hase guns six pounders Letter</string>
+    <string name="story9_page1_choice2">Marque spanker Gold Road</string>
+    <string name="story9_page2">Quarterdeck list blow the man down jolly boat hempen halter cable provost Nelsons folly interloper brigantine. Coxswain ye bilge quarter skysail tender ballast Gold Road shrouds broadside. Parrel grog lass furl ho marooned poop deck gangway man-of-war ye.</string>
+    <string name="story9_page2_choice1">Reef sails boatswain</string>
+    <string name="story9_page2_choice2">Pirate Round</string>
+    <string name="story9_page3">Quarter ballast killick provost loot pirate run a rig Sink me line parley. Cat o\'nine tails main sheet skysail pressgang hail-shot man-of-war gibbet rum ho splice the main brace. Loot dead men tell no tales loaded to the gunwalls prow league parley Cat o\'nine tails long clothes chase guns Privateer.</string>
+    <string name="story9_page3_choice1">Sea Legs strike </string>
+    <string name="story9_page3_choice2">Davy Jones\' Locker </string>
+    <string name="story9_page4">Jack fire ship Chain Shot chase guns trysail chase topsail clap of thunder Jack Tar Plate Fleet. Cutlass wherry pillage hearties Sink me Jolly Roger lee crow\'s nest aye boom. Hornswaggle tender warp Gold Road chantey swab pink clap of thunder ye sheet.</string>
+    <string name="story9_page4_choice1">Brace Brig Rum</string>
+    <string name="story9_page4_choice2">Abandon ship</string>
+    <string name="story9_page5">Swab bucko bilge rat ahoy jack Plate Fleet Shiver me timbers prow rigging interloper. Tack lateen sail squiffy Chain Shot draft mizzen jib scallywag pressgang cable. Swab run a shot across the bow code of conduct Corsair lad doubloon Jolly Roger hulk yard maroon.</string>
+    <string name="story9_page6">Jib lanyard scuttle aye long boat splice the main brace bring a spring upon her cable reef spike Privateer. Gally wench chantey Privateer heave to draught belay loaded to the gunwalls barkadeer port. Rigging ahoy line Buccaneer gun lugsail Sink me draught cackle fruit aft.</string>
+
+    //story 10
+    <string name="story10_page0">Epic cheeseburgers come in all kinds of manifestations, but we want them in and around our mouth no matter what. Slide those smashed patties with the gently caramelized meat fat between a toasted brioche bun and pass it over. </string>
+    <string name="story10_page0_choice1">You fall in love with the cheeseburger itself but the journey ain’t half bad either</string>
+    <string name="story10_page0_choice2">They’re the childhood friend that knows your highest highs and lowest lows</string>
+    <string name="story10_page1">They’ve been with you through thick and thin and they’re the best at keeping secrets. Whether it’s dressed up or informal, cheeseburgers have your back.</string>
+    <string name="story10_page1_choice1">Sometimes we lose sight of what really matters in life</string>
+    <string name="story10_page1_choice2">Choose a burger</string>
+    <string name="story10_page2">There’s something to be said for a gourmet brie and truffle burger paired with parmesan frites, but don’t let that make you forget about the ol’ faithful with American cheddar and a squishy bun.</string>
+    <string name="story10_page2_choice1">Lettuce remind you that cheeseburgers come in all forms - bun intended</string>
+    <string name="story10_page2_choice2">A cheeseburger, obviously.</string>
+    <string name="story10_page3">They say you’re never supposed to meet your idols. In this case, it’s a good thing your idol is inanimate.
+Cheeseburgers are never going to give you up or let you down. They’ll also never run around or desert you.</string>
+    <string name="story10_page3_choice1">They’ll never make you cry, unless it’s from sheer joy</string>
+    <string name="story10_page3_choice2">Cheeseburgers certainly won’t say goodbye either</string>
+    <string name="story10_page4">Cheeseburgers make your knees weak and your soul tingle. A great cheeseburger is a gastronomical event with so many varieties you couldn’t get tired of it if you tried. There’s cheesy incarnation waiting for you no matter what your palate preferences are.</string>
+    <string name="story10_page4_choice1">Unless you’re vegan, in which case we’re sorry for your loss.</string>
+    <string name="story10_page4_choice2"> On the flip side, they can still Rick Roll you</string>
+    <string name="story10_page5">The last time you had a cheeseburger was too long ago. Try not to drool when you think about the slightly charred, medium-rare meat nestled between soft brioche, cradled in crisp iceberg lettuce and flavour amplifying condiments. </string>
+    <string name="story10_page6">The palatable sensation we lovingly refer to as The Cheeseburger has a distinguished and illustrious history. It was born from humble roots, only to rise to well-seasoned greatness.</string>
+    <string name="parse_stories_from_json">PARSE STORIES FROM JSON</string>
+</resources>
