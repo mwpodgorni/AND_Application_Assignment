@@ -1,1 +1,1 @@
-# AND_Application_Assignment
+# Repository for final assignment from Android course
